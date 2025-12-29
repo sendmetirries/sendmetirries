@@ -1,7 +1,7 @@
 <!-- HACKER-THEMED GITHUB PROFILE README -->
 
 <!-- TITLE -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00ff99;">jarso</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00ff99;">IAN KURIA WACHERA</span></h1>
 <h3 align="center">💻 Offensive Security Engineer | hardware tech | software developer</h3>
 <h4 align="center"><i>"My other computer is your computer"</i> 🕶️</h4>
 
